@@ -1,4 +1,3 @@
-import "./App.css";
 import LastSeenCounter from "./components/LastSeenCounter";
 
 function App() {
